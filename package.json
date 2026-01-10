@@ -15,7 +15,7 @@
     "request-promise": "4.2.1",
     "rsa-compat": "1.2.7",
     "xtend": "4.0.1",
-    "yargs": "8.0.1"
+    "yargs": "18.0.0"
   },
   "devDependencies": {
     "dotenv-safe": "4.0.4",
